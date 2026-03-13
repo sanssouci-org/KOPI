@@ -3,6 +3,7 @@
 This repository contains the code to reproduce simulations of the KOPI paper: 
 
 > Blain, A., Thirion, B., Grisel, O., & Neuvial, P. (2023). False discovery proportion control for aggregated knockoffs. *Advances in Neural Information Processing Systems*, 36, 78193-78204.
+> https://arxiv.org/pdf/2310.10373
 
 To compute simulation results, run successively:
 
